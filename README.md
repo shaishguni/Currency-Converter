@@ -1,5 +1,3 @@
-# Currency-Converter
-By Shaish Guni
-Made for educational propose..
-Not mended for production
-Thank you
+# Currency Converter
+## A simple Currency converter in python
+## By shaish guni
